@@ -1,3 +1,3 @@
 # CloudFormation
-CloudFormation template to provision AWS resources.
+CloudFormation template for provisioning AWS resources.
 
